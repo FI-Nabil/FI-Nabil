@@ -3,7 +3,7 @@
   Hey, I'm <b><a href="https://www.linkedin.com/in/fahimistiak/" style="color: #3498DB; text-decoration: none;">Fahim Istiak</a></b>
 </h2>
 <p align="center" style="font-size: 1.2em; color: #808080;">
-  Competitive Programmer | Java Developer
+  Competitive Programmer | Software Engineer
 </p>
 
 <!-- Profile Views & Codeforces Badge -->
