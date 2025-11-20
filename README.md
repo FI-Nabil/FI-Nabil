@@ -3,7 +3,7 @@
   Hey, I'm <b><a href="https://www.linkedin.com/in/fahimistiak/" style="color: #3498DB; text-decoration: none;">Fahim Istiak</a></b>
 </h2>
 <p align="center" style="font-size: 1.2em; color: #808080;">
-  Competitive Programmer | Software Engineer
+  Software Engineer | Competitive Programmer
 </p>
 
 <!-- Profile Views & Codeforces Badge -->
@@ -13,7 +13,7 @@
 
 <!-- Brief Introduction -->
 <p align="center" style="font-size: 1.1em; color: #555555; max-width: 800px; margin: 0 auto;">
-  I am currently building the backend of an e-commerce platform. I completed my undergrad in <b>Computer Science & Engineering</b>. 
+  I am currently working as a full-stack developer, I mostly work with C# and dotnet. I completed my undergrad in <b>Computer Science & Engineering</b>. 
   I enjoy problem-solving and tinkering with algorithms. Outside of tech, I'm also invested in reading and traveling.
 </p>
 
