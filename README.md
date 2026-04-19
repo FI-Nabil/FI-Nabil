@@ -19,9 +19,6 @@
 
 <!-- New Opportunities Section -->
 <br />
-<p align="center" style="font-size: 1.1em; font-style: italic; color: #555555;">
-  💡 <i>I'm open to new opportunities in the domain of backend engineering</i>
-</p>
 
 <!-- Tech Stack -->
 <h3 align="center" style="color: #2F4F4F; margin-top: 40px;">Tech Stack</h3>
