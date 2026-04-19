@@ -23,11 +23,9 @@
 <!-- Tech Stack -->
 <h3 align="center" style="color: #2F4F4F; margin-top: 40px;">Tech Stack</h3>
 <p align="center" style="font-size: 1.2em;">
-  <img src="https://img.shields.io/badge/Java-FF4154?style=flat&labelColor=black&logo=openjdk&logoColor=FF4154" alt="Java" style="height: 20px;" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&labelColor=black&logo=c-sharp&logoColor=239120" alt="C#" style="height: 20px;" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&labelColor=black&logo=dotnet&logoColor=512BD4" alt=".NET" style="height: 20px;" />
   <img src="https://img.shields.io/badge/CPP-004283?style=flat&labelColor=black&logo=cplusplus&logoColor=004283" alt="C++" style="height: 20px;" />
-  <img src="https://img.shields.io/badge/SpringBoot-4EA94B?style=flat&labelColor=black&logo=spring&logoColor=4EA94B" alt="Spring Boot" style="height: 20px;" />
-  <img src="https://img.shields.io/badge/Postgres-50ABE7?style=flat&labelColor=black&logo=postgresql&logoColor=50ABE7" alt="Postgres" style="height: 20px;" />
-  <img src="https://img.shields.io/badge/Thymeleaf-008000?style=flat&labelColor=black&logo=thymeleaf&logoColor=008000" alt="Thymeleaf" style="height: 20px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML" style="height: 20px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3" style="height: 20px;" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&labelColor=black&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" style="height: 20px;" />
