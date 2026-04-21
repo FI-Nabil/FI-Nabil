@@ -25,6 +25,7 @@
 <p align="center" style="font-size: 1.2em;">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&labelColor=black&logo=c-sharp&logoColor=239120" alt="C#" style="height: 20px;" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&labelColor=black&logo=dotnet&logoColor=512BD4" alt=".NET" style="height: 20px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=black&logo=python&logoColor=3776AB" alt="Python" style="height: 20px;" />
   <img src="https://img.shields.io/badge/CPP-004283?style=flat&labelColor=black&logo=cplusplus&logoColor=004283" alt="C++" style="height: 20px;" />
   <img src="https://img.shields.io/badge/Java-FF4154?style=flat&labelColor=black&logo=openjdk&logoColor=FF4154" alt="Java" style="height: 20px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML" style="height: 20px;" />
