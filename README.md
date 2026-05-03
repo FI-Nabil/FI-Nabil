@@ -31,9 +31,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML" style="height: 20px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3" style="height: 20px;" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&labelColor=black&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" style="height: 20px;" />
-  <img src="https://img.shields.io/badge/Angular-FF0000?style=flat&labelColor=black&logo=angular&logoColor=FF0000" alt="Angular" style="height: 20px;" />
-  <img src="https://img.shields.io/badge/Linux-F0DB4F?style=flat&labelColor=black&logo=linux&logoColor=F0DB4F" alt="Linux" style="height: 20px;" />
-  <img src="https://img.shields.io/badge/Github-ffffff?style=flat&labelColor=black&logo=github&logoColor=ffffff" alt="Github" style="height: 20px;" />
 </p>
 
 
